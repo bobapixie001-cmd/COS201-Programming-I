@@ -1,4 +1,11 @@
-      System.out.printf("Quotient: %.2f%n", quotiSystem.out.print("Enter the first number: ");
+import java.util.Scanner;
+
+public class SimpleCalculator {
+public static void main(String[] args) {
+Scanner input = new Scanner(System.in);
+
+    
+        System.out.printf("Quotient: %.2f%n", quotiSystem.out.print("Enter the first number: ");
     double firstNumber = input.nextDouble();
     
     System.out.print("Enter the second number: ");
